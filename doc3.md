@@ -1,6 +1,6 @@
-##History
+#History
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax,[2][3] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)".[4]
+John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)".[4]
 
 The key design goal is readability – that the language be readable as-is, without looking like it has been marked up with tags or formatting instructions,[9] unlike text formatted with a markup language, such as Rich Text Format (RTF) or HTML, which have obvious tags and formatting instructions. To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.[9]
 

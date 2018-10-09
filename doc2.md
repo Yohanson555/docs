@@ -1,4 +1,4 @@
-##Standardization
+## Standardization
 
 Markdown has been characterised by an informal specification[17] and a reference implementation for conversion to HTML. Over time, many Markdown implementations have appeared. People developed these mostly driven by the need for additional features on top of the base syntax—such as tables, footnotes, definition lists, and Markdown inside HTML blocks. The behavior of some of these diverges from the reference implementation. At the same time, a number of ambiguities in the informal specification have attracted attention[18]. These issues spurred an effort by some developers of Markdown parsers for standardisation.
 
